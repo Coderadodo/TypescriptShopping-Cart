@@ -1,0 +1,56 @@
+[
+    {
+      "id": 1,
+      "name": "Bike",
+      "price": 10.99,
+      "imgUrl": "/imgs/phone.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Camera",
+      "price": 119,
+      "imgUrl": "/imgs/cam.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Phone",
+      "price": 1.05,
+      "imgUrl": "/imgs/phone.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Shirt",
+      "price": 140,
+      "imgUrl": "/imgs/shirt.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Shirt",
+      "price": 140,
+      "imgUrl": "/imgs/shirt.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Camera",
+      "price": 140,
+      "imgUrl": "/imgs/cam.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Shirt",
+      "price": 140,
+      "imgUrl": "/imgs/shirt.jpg"
+    },
+    {
+      "id": 8,
+      "name": "Camera",
+      "price": 140,
+      "imgUrl": "/imgs/cam.jpg"
+    },
+    {
+      "id": 9,
+      "name": "Phone",
+      "price": 140,
+      "imgUrl": "/imgs/phone.jpg"
+    }
+  ]
